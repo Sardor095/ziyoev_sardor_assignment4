@@ -1,0 +1,40 @@
+body {
+    background-color: #B53471;
+}
+div.container {
+text-align: center;
+margin-top:300px;
+}   
+#container.btn {
+    width: 100%;
+}
+#result {
+    width: 208px;
+    height:50px;
+    margin-left: -55px;
+}
+.nums, .sign {
+    width: 50px;
+    height: 50px;
+}
+.nums {
+    background-color: #EE5A24;
+}
+.sign {
+    margin-right: 55px;
+    background-color: #7bed9f;
+}
+.equal {
+    margin-left: 880px;
+    margin-top: -49px;
+    width: 50px;
+    height: 50px;
+}
+#add.sign {
+    background-color: #1e3799;
+}
+#equal.btn {
+    background-color:#78e08f;
+    width: 50px;
+    height: 50px;
+}
